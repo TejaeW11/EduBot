@@ -1,0 +1,6 @@
+{
+  "novice": ["beginner", "new", "amateur", "inexperienced", "starter", "1"],
+  "intermediate": ["moderate", "middle", "mid", "knowledgeable", "competent", "fair",
+    "skilled", "experienced", "adept", "familiar","2"],
+  "advanced": ["expert", "review", "exceptional", "3"]
+}
